@@ -37,5 +37,22 @@ capitals = {'Alabama':'Montgomery','Alaska':'Juneau',
 - Your program should be case-insensitive (does not matter if the user uses upper or lower case letters).
 
 
+```
+What is the capital of Washington? 
+Oakland
 
+Incorrect response
+Your accuracy is 0.00%
+
+What is the capital of New Hampshire? 
+concord
+
+Correct response
+Your accuracy is 50.00%
+
+What is the capital of Louisiana? 
+quit
+
+Your accuracy is 50.00%
+```
 
